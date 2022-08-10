@@ -10,7 +10,7 @@ whether to invest in them or not.
 - This project is a part of the EPGP Course in AI/ML From IIIT-Bangalore.
 - The project is on predicting house prices using regularization techniques such as Ridge, Lasso and ElasticNet.
 - The repository contains of the following files/folders:
-    - **data/** : folder which contains the input dataset 'data.csv'
+    - **data/** : folder which contains the input dataset 'train.csv'
     - **DebaratnaNath_Advanced_Regression_Assignment.ipynb** : iPython notebook containing the entire code of the solution.
     - **Assignment2_Subjective_Questions.pdf** : The pdf file containing the answers to all the subjective questions asked in the assignment.
 
